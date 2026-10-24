@@ -43,7 +43,7 @@ This project analyzes historical transactional data from the US Superstore to id
 2. **Category Profitability vs. Volume:** 
    * *Technology products yielded the highest profit margins, while month of April generated the highest profit.*
 3. **Product Returns Mitigation:** 
-   * *Product return rates were highest in the Office Supplies, while the highest transaction came from the Central *
+   * *Product return rates were highest in the Office Supplies, while the highest transaction came from the Central.*
 
 ---
 
