@@ -39,11 +39,11 @@ This project analyzes historical transactional data from the US Superstore to id
 ## 💡 Key Business Insights
 
 1. **Regional Demand Dynamics:** 
-   * *(Example: Insert key insight, e.g., The West region drove the highest overall revenue, with peak sales occurring during Q4.)*
+   * *(The East region drove the highest overall revenue, with peak sales occurring during Q2.)*
 2. **Category Profitability vs. Volume:** 
-   * *(Example: Technology products yielded the highest profit margins, while Office Supplies generated the highest transaction count.)*
+   * *(Technology products yielded the highest profit margins, while month of April generated the highest profit.)*
 3. **Product Returns Mitigation:** 
-   * *(Example: Product return rates were highest in the Furniture category, driven mainly by Chair and Table orders.)*
+   * *(Product return rates were highest in the Office Supplies, while the highest transaction came from the Central )*
 
 ---
 
