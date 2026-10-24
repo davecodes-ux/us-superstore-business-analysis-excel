@@ -8,7 +8,7 @@ An end-to-end exploratory data analysis and interactive executive dashboard buil
 
 ## 📸 Executive Dashboard Preview
 
-![Dashboard Overview](dashboard(2).jpg)
+![Dashboard Overview](dashboard (2).jpg)
 
 ---
 
