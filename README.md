@@ -65,5 +65,4 @@ us-superstore-excel-analytics/
 ​Developer: Chinedu Ugwu
 ​GitHub: @davecodes-ux
 ​If you found this analysis insightful or useful for your own project reference, feel free to give this repository a ⭐️!
-│ └── regional_analysis.png # Additional chart preview
 └── README.md #
