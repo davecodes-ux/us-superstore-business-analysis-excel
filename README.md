@@ -8,8 +8,7 @@ An end-to-end exploratory data analysis and interactive executive dashboard buil
 
 ## 📸 Executive Dashboard Preview
 
-![Dashboard Overview](dashboard.jpg)
-*(Replace the image path above with a screenshot of your main Excel dashboard)*
+![Dashboard Overview](Dashboard.jpg)
 
 ---
 
