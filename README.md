@@ -58,5 +58,13 @@ us-superstore-excel-analytics/
 │ └── superstore_analysis.xlsx # Main Excel workbook with PivotTables & Dashboard
 ├── screenshots/
 │ ├── dashboard_overview.png # Screenshot of the main dashboard
+🚀 How to View & Use the Project
+​Download the Workbook: Navigate to the dashboards/ folder and download superstore_analysis.xlsx.
+​Open in Microsoft Excel: Open the file using Microsoft Excel 2016 or newer (or Excel for Web) to ensure full compatibility with dynamic array formulas and interactive slicers.
+​Interact with the Dashboard: Use the built-in region and category slicers to filter KPIs, charts, and table metrics dynamically.
+​👤 Author
+​Developer: Chinedu Ugwu
+​GitHub: @davecodes-ux
+​If you found this analysis insightful or useful for your own project reference, feel free to give this repository a ⭐️!
 │ └── regional_analysis.png # Additional chart preview
 └── README.md #
